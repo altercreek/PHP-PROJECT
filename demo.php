@@ -1,10 +1,6 @@
 <?php
 session_start();
 // ============
-//include("../../php_crud/my_class.php");
-//$obj=new my_class();
-//$br_id = $_SESSION['LOGIN_BRANCH'];
-// ============
 
 ?>
 <head>
@@ -12,7 +8,6 @@ session_start();
 <title>
 	My Demo Work	</title>
 
-	<link rel="icon" href="assets/img/favicon.ico" type="image/png" />
 
 		
 		<link href="asset/theme/css/bootstrap.min.css" rel="stylesheet" />
